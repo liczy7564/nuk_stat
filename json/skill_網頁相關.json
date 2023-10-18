@@ -1,0 +1,27 @@
+[
+    {
+        "name":"HTML",
+        "what":"學校/實習",
+        "about":"<div class='Other_text_Small'>網頁製作<br>(含bootstrap)</div>"
+    },
+    {
+        "name":"CSS",
+        "what":"學校/實習",
+        "about":"視覺設計"
+    },
+    {
+        "name":"JavaScript",
+        "what":"實習",
+        "about":"jquery/ajax"
+    },
+    {
+        "name":"Mobirise",
+        "what":"學校課程",
+        "about":"網頁模組"
+    },
+    {
+        "name":"wordpress",
+        "what":"實習",
+        "about":"網頁製作及管理"
+    }
+]

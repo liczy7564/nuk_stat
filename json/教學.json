@@ -1,0 +1,43 @@
+[
+
+    {
+        "名稱":"網頁設計",
+        "資訊":"大三選修 3學分", 
+        "老師":"王錦裕 老師",
+        "分數":"學期92分",
+        "心得":"主題：台灣中小營隊<br>想把它當作程儀個面試作品，跟組員協調希望網頁的底版我來做(95%)，主題是因為組長樂於參與志工活動，想做出不一樣的作品<a href='https://liczy7564.github.io/The_Camp/'><br>>>前往作品</a>",
+        "圖片":"./imgs/課堂/網頁設計.png"
+    },
+    {
+        "名稱":"迴歸分析",
+        "資訊":"大二必修 3學分", 
+        "老師":"李名鏞 老師",
+        "分數":"學期98分 (班2)",
+        "心得":"期末報告：預測。確認交互作用、挑選變數＊注意類別變數，因為沒有遇到類別變數的問題，但有幫忙其他組協助分析。這份報告也包含二年級所學的實驗設計內容在裡面。",
+        "圖片":"./img/回歸分析/迴歸分析.JPG'></img><img class='scroll_img' src='./img/回歸分析/目錄.JPG'></img><img class='scroll_img' src='./img/回歸分析/魚骨圖.JPG'></img><img class='scroll_img' src='./img/回歸分析/檢查.JPG'></img><img class='scroll_img' src='./img/回歸分析/變數挑選.JPG'></img><img class='scroll_img' src='./img/回歸分析/驗證.JPG"
+    },
+    {
+        "名稱":"大數據管理平台",
+        "資訊":"大三必修 3學分", 
+        "老師":"陳松林 老師",
+        "分數":"學期99分",
+        "心得":"課程內容：Hadoop ELT HDFS Hive...等<br>指定資料下載、欄位清理及挑選<br>目錄、資料表建制<br>資料挑選基礎運用＊腳本用法。",
+        "圖片":"./imgs/課堂/數據分析平台.png"
+    },
+    {
+        "名稱":"資料探勘",
+        "資訊":"大三選修 3學分", 
+        "老師":"李名鏞 老師",
+        "分數":"學期95分",
+        "心得":"主題：分類-飲用水適飲性<br>分類器：隨機森林、ＳＶＭ、XGboost<br>必做交叉驗證跟XGboost再比較哪個分類器為佳。",
+        "圖片":"./img/資料探勘/資料探勘.png'></img><img class='scroll_img' src='./img/資料探勘/目錄.JPG'></img><img class='scroll_img' src='./img/資料探勘/資料處理.JPG'></img><img class='scroll_img' src='./img/資料探勘/分類器目錄.JPG'></img><img class='scroll_img' src='./img/資料探勘/分類器.JPG'></img><img class='scroll_img' src='./img/資料探勘/結論.JPG"
+    },
+    {
+        "名稱":"多變量分析",
+        "資訊":"大三選修 3學分", 
+        "老師":"李名鏞 老師",
+        "分數":"學期92分",
+        "心得":"主題：分類-飲用水適飲性<br>分析方法：主成分分析、判別分析。<br>挑選完變數之後進行分類。",
+        "圖片":"./img/多變量/多變量.JPG'></img><img class='scroll_img' src='./img/多變量/目錄.JPG'></img><img class='scroll_img' src='./img/多變量/資料處理.JPG'></img><img class='scroll_img' src='./img/多變量/主成份.JPG'></img><img class='scroll_img' src='./img/多變量/判別分析.JPG'></img><img class='scroll_img' src='./img/多變量/結論.JPG"
+    }
+]

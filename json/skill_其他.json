@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Illustrator",
+        "what":"學校課程",
+        "about":"基礎製圖"
+    },
+    {
+        "name":"SketchUp",
+        "what":"學校課程",
+        "about":"3D建模"
+    },
+    {
+        "name":"Inkscape",
+        "what":"學校課程",
+        "about":"雷切製圖"
+    },
+    {
+        "name":"Power BI",
+        "what":"學校課程",
+        "about":"數據分析"
+    }
+]

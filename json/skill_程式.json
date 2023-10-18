@@ -1,0 +1,22 @@
+[
+    {
+        "name":"R軟體",
+        "what":"學校課程",
+        "about":"數據分析"
+    },
+    {
+        "name":"JAVA",
+        "what":"學校課程",
+        "about":"基礎運用"
+    },
+    {
+        "name":"Python",
+        "what":"學校課程",
+        "about":"演算法"
+    },
+    {
+        "name":"Linux",
+        "what":"學校競賽",
+        "about":"數據分析"
+    }
+]
