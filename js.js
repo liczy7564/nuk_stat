@@ -137,14 +137,14 @@ $(document).ready(function(){
   }
   // 讀書計畫區塊1
   $(".open_all_1").on("click",function(){
-    for (i = 0; i < 4; i++) {
+    for (i = 0; i < 3; i++) {
       let The_time = document.getElementsByClassName("The_time");
       $(The_time[i]).slideToggle(200);
     }
   });
     // 讀書計畫區塊2
   $(".open_all_2").on("click",function(){
-    for (i = 4; i < 8; i++) {
+    for (i = 3; i < 8; i++) {
       let The_time = document.getElementsByClassName("The_time");
       $(The_time[i]).slideToggle(200);
     }

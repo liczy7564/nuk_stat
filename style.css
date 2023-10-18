@@ -586,6 +586,18 @@ img{
 	min-height: 200px;
 	margin: 0 10px 0 10px;
 }
+.web_img{
+	object-position: center center; 
+	object-fit: scale-down;
+	display: block;
+	height: 20vw;
+	border-radius: 20.5px;
+	max-height: 400px;
+	min-height: 350px;
+	margin: auto;
+	border: 1px solid #5e5149;
+	padding: 5px;
+}
 .class_lt{
 	margin: auto;
 	width: 90%;
